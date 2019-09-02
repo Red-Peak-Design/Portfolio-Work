@@ -1,0 +1,408 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://medicnick83.co.za" resolutions="1x" timestamp="1500563992074">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4129204168" ref="index:spca-eft-details"/>
+    <file name="nomq_preview_master_a-master.css" crc="479058623" ref="index:spca-eft-details"/>
+    <file name="index.css" crc="3883466331" ref="index"/>
+    <file name="nomq_index.css" crc="4060072561" ref="index"/>
+    <file name="spca-eft-details.css" crc="480607362" ref="spca-eft-details"/>
+    <file name="nomq_spca-eft-details.css" crc="216795905" ref="spca-eft-details"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:spca-eft-details"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:index:spca-eft-details"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:spca-eft-details"/>
+    <file name="museconfig.js" crc="4177022356" ref="phone>index:index:spca-eft-details"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:index:spca-eft-details"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="phone>index:index:spca-eft-details"/>
+    <file name="webpro.js" crc="4143865194" ref="phone>index:index:spca-eft-details"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="phone>index:index:spca-eft-details"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>index:index:spca-eft-details"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:index:spca-eft-details"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:index:spca-eft-details"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:spca-eft-details"/>
+  </folder>
+  <folder name="images">
+    <file name="logo512.png" crc="101339890" seo="true" ref="phone>index:index:spca-eft-details">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+    </file>
+    <file name="rsaweb 4.png" crc="135167990" seo="true" ref="phone>index:index:spca-eft-details">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+    </file>
+    <file name="untitled-1.png" crc="91151166" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1499272309_discord-2.png" crc="382862412" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="donate-box_goodwill spca.png" crc="171884236" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="south-africa-flag-wallpaper.jpg" crc="252739319" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11-u46598-fr.png" crc="188034418" ref="phone>index"/>
+    <file name="1499398119_game.png" crc="30859791" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="donate-4-icon-crop-u46606.png" crc="4252106355" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paypal-donate-button-png-hd.png" crc="272600181" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-u46576-fr.png" crc="77276601" ref="phone>index"/>
+    <file name="1499320021_twitch.png" crc="441403091" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1499320051_youtube.png" crc="192698325" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1499272405_instagram.png" crc="476262696" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1499272297_twitter.png" crc="327977243" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1499272344_facebook.png" crc="4134364499" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1499272309_discord-1.png" crc="172784118" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1499382285_39_email_marketing.png" crc="101509846" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fbsmall_400x400-crop-u46600.jpg" crc="3819947607" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="google_logo_250.png" crc="3939740855" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="heart.png" crc="117585526" seo="true" ref="phone>index:index:spca-eft-details">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="64959672" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:spca-eft-details"/>
+    <file name="rsaweb4.jpg" crc="3864179825" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-u6843-fr.png" crc="4111138566" ref="index"/>
+    <file name="south-africa-flag-wallpaper-u470-fr.jpg" crc="208824089" ref="index"/>
+    <file name="donate-4-icon.png" crc="392903523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="easy.png" crc="3876806841" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fbsmall_400x400.jpg" crc="515527939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="south-africa-flag-wallpaper-u470-fr2.jpg" crc="361044372" ref="index"/>
+    <file name="untitled-1-u4122-fr.png" crc="4073113638" ref="index"/>
+    <file name="south-africa-flag-wallpaper-u470-fr3.jpg" crc="508148976" ref="index"/>
+    <file name="south-africa-flag-wallpaper-u470-fr4.jpg" crc="3954234438" ref="index"/>
+    <file name="south-africa-flag-wallpaper-u470-fr5.jpg" crc="49091396" ref="index"/>
+    <file name="donate-4-icon-crop-u34741.png" crc="285378475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fbsmall_400x400-crop-u6736.jpg" crc="4167798453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="donate-4-icon-crop-u347412.png" crc="4252106355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fbsmall_400x400-crop-u67362.jpg" crc="3819947607" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="without-url2.jpg" crc="370799815" ref="spca-eft-details">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+      <caption webpage="spca-eft-details" alt=""/>
+    </file>
+    <file name="31459_knightech_logo_m2new.png" crc="238810495" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raru-print.jpg" crc="271886347" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hangar 18 logo.jpg" crc="173209080" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo (1).jpg" crc="384509913" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="without-url2-u134-fr.jpg" crc="3827158794" ref="index"/>
+    <file name="without-url2-u134-fr2.jpg" crc="3914115764" ref="index"/>
+    <file name="without-url2-u134-fr3.jpg" crc="430998695" ref="index"/>
+    <file name="without-url2-u134-fr4.jpg" crc="4180613971" ref="index"/>
+    <file name="without-url2-u134-fr5.jpg" crc="3981781139" ref="index:spca-eft-details"/>
+    <file name="south-africa-flag-wallpaper-u470-fr6.jpg" crc="4112099426" ref="index"/>
+    <file name="without-url2-u61389-fr.jpg" crc="4109104989" ref="spca-eft-details"/>
+    <file name="south-africa-flag-wallpaper-u470-fr7.jpg" crc="467766520" ref="index"/>
+    <file name="untitled-1-u6843-fr2.png" crc="479106031" ref="index"/>
+    <file name="untitled-1-u6843-fr3.png" crc="45629163" ref="index"/>
+    <file name="south-africa-flag-wallpaper-u470-fr8.jpg" crc="482602460" ref="index"/>
+    <file name="without-url2-u61389-fr2.jpg" crc="4036973329" ref="spca-eft-details"/>
+    <file name="without-url2-u61389-fr3.jpg" crc="474965931" ref="spca-eft-details"/>
+    <file name="untitled-1-u6843-fr4.png" crc="319820737" ref="index"/>
+    <file name="south-africa-flag-wallpaper-u470-fr9.jpg" crc="3778289741" ref="index"/>
+    <file name="without-url2-u61389-fr4.jpg" crc="275108065" ref="spca-eft-details"/>
+    <file name="1499272309_discord-12.png" crc="172784118" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11-u6733-fr.png" crc="188034418" ref="index"/>
+    <file name="untitled-1-u4122-fr2.png" crc="77276601" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4283541220" ref="phone>index"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="4274705706" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="206305042" seo="true" mt="1500562800962" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="379329094" seo="true" mt="1500563953677" redirect="true"/>
+  <file name="spca-eft-details.html" crc="4076495571" seo="true" mt="1500563355301" redirect="true"/>
+</manifest>
