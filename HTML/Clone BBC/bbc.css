@@ -1,0 +1,283 @@
+    #topbar {
+        width: 1200px;
+        margin: 0 auto;
+        background-color: white;
+        height: 60px;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Helvetica, Arial, freesans, sans-serif;
+    }
+
+    #logo {
+        margin-top: 8px;
+        float: left;
+        margin-right: 10px;
+        height: 40px;
+    }
+
+    .topbar-section {
+        float: left;
+        border-left: 1px #cccccc solid;
+        height: 60px;
+        border-top: 1px solid #cccccc;
+
+    }
+
+    #signin-div {}
+
+    #signin-logo {
+        margin: 18px 15px;
+        width: 25px;
+        float: left;
+
+    }
+
+    #signin-text {
+        font-weight: bold;
+        font-size: 90%;
+        position: relative;
+        top: 20px;
+        padding-right: 20px;
+
+
+    }
+
+    .topbar-menu {
+
+        font-weight: bold;
+        font-size: 90%;
+        padding: 20px 15px 0 15px;
+        height: 40px
+    }
+
+    #more-arrow {
+        transform: rotate(225deg);
+        margin: 0px 0px 0px 30px;
+        width: 6px;
+    }
+
+    #search-bar {
+        background-color: #e4e4e4;
+        border: none;
+        font-weight: bold;
+        font-size: 14px;
+        padding: 5px;
+        margin: 13px 0px 6px 6px;
+        float: left;
+        width: 200px;
+
+
+    }
+
+    #search-glass {
+        margin: 13px 0px 5px 0px;
+        height: 26px;
+    }
+
+    .Heading-banner {
+        background-color: #BC181D;
+        height: 70px;
+        width: 100%;
+    }
+
+    #banner-menu {
+        width: 1200px;
+        margin: 0 auto;
+
+    }
+
+    #banner-title {
+        float: left;
+        color: #ffffff;
+        font-size: 44px;
+        font-weight: 400;
+        padding: 0;
+        margin: 5px 0 0 0;
+    }
+
+    .clear {
+        clear: both;
+    }
+
+    .local-news {
+        float: right;
+        margin: 5px 0 0 0;
+        padding: 0px 0px 10px 10px;
+        border: #d88080 1px solid;
+        width: 200px;
+
+
+
+    }
+
+    .local-news img {
+        height: 30px;
+        position: relative;
+        top: 8px;
+    }
+
+    .local-news a {
+
+        color: #ffffff;
+        font-size: 22px;
+        text-decoration: none;
+
+    }
+
+    .local-news a:hover {
+        text-decoration: underline;
+    }
+
+    #menubar2 {
+        background-color: #BC181D;
+        height: 30px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .menubar2_section {
+        width: 1200px;
+        margin: 0 auto;
+
+    }
+
+    .menu_titles {
+
+        width: auto;
+        margin-right: 12px;
+        float: left;
+
+
+
+    }
+
+    #menubar2 a {
+        text-decoration: none;
+        font-size: 15px;
+        margin: 0;
+        padding: 0;
+        font-weight: 200;
+        color: #ffffff;
+        padding-right: 7px;
+        border-right: #e4e4e4 1px solid;
+
+    }
+
+    #menubar2 a:hover {
+        text-decoration: underline;
+
+    }
+
+    #more-arrow2 {
+        transform: rotate(180deg);
+        margin: 0px 0px 0px 5px;
+        width: 6px;
+    }
+
+    .no-border {
+        border: none !important;
+    }
+
+    #page-container {
+        width: 100%;
+    }
+
+    #Selected-page {
+        border-bottom: #BC181D 3px solid;
+        margin-right: 5px;
+    }
+
+    #topic-menu {
+        width: 1200px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    #topic-menu a {
+        text-align: center;
+        text-decoration: none;
+        color: black;
+        float: left;
+        font-size: 17px;
+        font-weight: 300;
+        margin: 8px 10px 8px 0px;
+        padding: 0px 8px 0px 8px;
+        border-right: #2e2e2e 1px solid;
+
+
+    }
+
+    #topic-menu a:hover {
+        color: #BC181D;
+        text-decoration: underline;
+    }
+
+    #articles-gallery {
+        width: 1200px;
+        margin: 0 auto;
+
+    }
+
+    #main-article {
+        width: 465px;
+        float: left
+    }
+
+    #related-articles {
+        padding-bottom: 50px;
+
+    }
+
+    #main-img {
+        width: 465px;
+
+    }
+
+    #main-article a {
+        text-decoration: none;
+        color: #2e2e2e;
+    }
+
+    #main-article h2 {
+        font-size: 28px;
+        font-weight: 800;
+        letter-spacing: -1px;
+        line-height: 32px;
+    }
+
+    #timer-main {
+        width: 40px;
+        float: left;
+        padding-right: 10px;
+        border-right: 1px solid #cccccc;
+        margin-right: 10px;
+    }
+
+    #visited-article {
+        list-style-image: url("https://www.mediacollege.com/internet/css/bullet.gif")
+    }
+
+    .gallery-item {
+        width: 235px;
+        float: left;
+        margin: 0px 0px 25px 10px;
+    }
+
+    .gallery-item img {
+        width: 235px;
+    }
+
+    .gallery-item p {
+        font-size: 14px;
+    }
+
+    .gallery-item h3 {
+        height: 50px;
+    }
+
+    .article-gallery {
+        float: left;
+    }

@@ -1,0 +1,282 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+/* HTML5 display-role reset for older browsers */
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+
+
+/*BBC CSS*/
+body {}
+
+.Menubar {
+    width: 100%;
+    margin: 0 311px 0 311px;
+
+}
+
+.Menubar p {
+
+    text-align: center;
+
+}
+
+#logo {
+    float: left;
+    padding: 0px 40px 0px 0px;
+    margin-left: 311px;
+}
+
+#menu-item {
+    float: left;
+    padding: 10px 40px 10px 40px;
+    border-left: 1px black solid;
+
+}
+
+#menu-item2 {
+    float: left;
+    padding: 10px 60px 10px 20px;
+    border-left: 1px black solid;
+
+}
+
+#menu-item3 {
+    float: left;
+    padding: 10px 0px 10px 20px;
+    border-left: 1px black solid;
+
+}
+
+#banner-bbc {
+    background-color: #BB1919;
+    display: inline-block;
+    padding-left: 0px;
+    width: 100%;
+
+
+}
+
+#Banner-Menu {
+    margin: 0 311px 0 311px;
+}
+
+#banner-item1 {
+    font-size: 450%;
+    color: white;
+    float: left;
+    padding: 10px 0px 10px 0px;
+    margin-right: 100%;
+    position: relative;
+}
+
+#banner-item2 {
+    font-size: 100%;
+    text-align: center;
+    color: white;
+    float: left;
+    padding: 2px 25px 2px 25px;
+    margin: 10px auto 10px auto;
+    border-left: 1px black solid;
+    position: relative;
+
+
+}
+
+}
+
+#blog-main {
+        display: flex;
+        padding-left: 0px;
+        width: 1920px;
+
+}
+
+#blog-headings {
+    margin: 0 311px 0 311px;
+
+}
+
+#blog-headings p {
+    font-size: 100%;
+    float: left;
+    padding: 2px 30px 2px 20px;
+    margin: 10px 0px 10px 0px;
+    border-left: 1px black solid;
+}
+
+
+
+#news-items {
+
+
+    font-size: 180%;
+    color: black;
+}
+
+.clear-float {
+    clear: both;
+}
+
+#blog-left{
+    display: inline-block;
+        margin: 0 0 0 311px;
+        width: 200px;
+
+}
+
+#blog-hero {
+    width: 40%;
+    float: left;
+    height: 500px;
+
+
+
+}
+
+
+
+#main_blog_img {
+
+}
+
+#blog-library {
+    width: calc(100% - 200px);
+    display: inline-block;
+    margin: auto auto auto auto;
+}
+
+#blog-gallery {
+    float: left;
+    position: relative;
+    margin: 0 50px 0 50px;
+
+}
