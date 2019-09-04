@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<link href="css/Style.css" rel="stylesheet" type="text/css">
+
+<head>
+  <title> Functional Dinner </title>
+
+</head>
+
+
+<body onload="ordermeal()">
+
+  <div class="mainbody">
+<h1 id="head0">FUNCTIONAL DINNER</h1>
+
+    <h1 id="head1">Menu</h1>
+<div class="Order">
+
+  <h2 id="Drinkorder">Drink Menu</h2>
+<p id="drinkmenu"></p>
+<button id="drinkbutton" onclick="promptdrink()">Order Drink</button>
+<p id="drinkdisplay"></p>
+
+  <h2 id="Foodorder">Food Menu</h2>
+<p></p>
+<p id="foodmenu"></p>
+<button id="foodbutton" onclick="promptfood()">Order Food</button>
+<p id="fooddisplay"></p>
+
+
+</div>
+<div class="Bill">
+    <h2>Bill</h2>
+    <p id="ftotal">Total Bill</p>
+    <h3>Tip</h3>
+    <p id="tipdisplay">Tip Amount</p>
+
+    <h3>TOTAL + TIP</h3>
+    <p id="totaldisplay">Total Ammount</p>
+    <button id="updatebutton" onclick="update()">Update</button>
+
+
+</div>
+   
+
+  </div>
+
+
+  <script type="text/javascript" src="JS/scriptT2.js"></script>
+
+</body>
+
+
+
+</html>
