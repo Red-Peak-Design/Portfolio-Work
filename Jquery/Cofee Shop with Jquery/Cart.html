@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+
+<html>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+
+<link href="css/Style.css" rel="stylesheet" type="text/css">
+
+<head>
+
+  <title>Cape Town Coffee</title>
+
+</head>
+
+<body id="body_cart">
+
+  <!-- Begin Menu and Hero Image -->
+
+  <div class=Header>
+    <div class=MenuTitle>
+    </div>
+
+    <div class=newmenu>
+      <div id="button">
+        <ul class="hover">
+          <li class="hoverli">
+            <div class="menu_class">MENU</div>
+            <ul class="file_menu">
+              <li><a href="Shop.html">Shop</a></li>
+              <li><a href="Cart.html">Cart</a></li>
+              <li><a href="Cape Town Coffee.html">Home</a>
+                <ul class="sub">
+                  <li><a href="About.html">About</a></li>
+                </ul>
+              </li>
+
+            </ul>
+          <li>
+        </ul>
+      </div>
+      <li>
+<a href="Cape Town Coffee.html">
+  <h2>COFFEE SMUGLER</h2></a>
+      </li>
+    </div>
+
+  </div>
+
+
+  <!-- End Menu and Hero Image -->
+
+  <!-- Main Page Start -->
+
+  <div class="CartPage">
+    <h1>Cart</h1>
+    <div class=cartsec1>
+      <h2>Items:</h2>
+      <div id="CartItems"></div>
+      <button id="clearButton">Clear Cart</button>
+      <div class="CartButtons1"></div>
+    </div>
+
+
+
+
+
+    <div class=cartsec2>
+
+      <h2>Delivery</h2>
+
+      <p>Choose Delivery option</p>
+
+      <div class="DeliveryOptions">
+
+        <td>
+          <label class="containercheck">Collection
+            <input type="radio" id="r1" checked="checked" name="radio" onclick="updateeverything()">
+            <span class="checkmark"></span>
+          </label>
+          <label class="containercheck">Courier One
+            <input type="radio" id="r2" name="radio" onclick="updateeverything()">
+            <span class="checkmark"></span>
+          </label>
+          <label class="containercheck">Courier Two
+            <input type="radio" id="r3" name="radio" onclick="updateeverything()">
+            <span class="checkmark"></span>
+          </label>
+
+          </label>
+        </td>
+
+        <h2>Delivery Price:</h2>
+        <h2 id="DeliveryChoice"></h2>
+      </div>
+
+      <div class="cartsec4">
+              <div id="CouponsID">
+          <h2>ENTER COUPON (LUCKY100)</h2>
+
+          <form onsubmit="">
+            <label><input type="text" name="coupon" id="inCoupon" class="coupon" title="Enter coupon">
+              <span id="usernameError"></span></label>
+            <input type="button" value="Submit" onClick="validate(coupon)" /></form>
+
+          <span id="message"></span>
+          <span id="err"></span>
+        </div>
+<h2>Vat:</h2>
+<h2 id="vatCartid"></h2>
+<h2>Total:</h2>
+<h2 id="TotalCartid"></h2>
+
+        <div class="CartButtons2">
+          <br></br>
+          <button id="checkoutButton">Check Out</button>
+          <div class="CheckoutStatus"></div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="calc">
+      <h3>Calculator</h3>
+      <div class="calculator">
+        <form name="calculator">
+          <table>
+            <tr>
+              <td colspan="4">
+                <input type="text" name="display" id="display" disabled>
+              </td>
+            </tr>
+            <tr>
+              <td><input type="button" name="one" value="1" onclick="calculator.display.value += '1'"></td>
+              <td><input type="button" name="two" value="2" onclick="calculator.display.value += '2'"></td>
+              <td><input type="button" name="three" value="3" onclick="calculator.display.value += '3'"></td>
+              <td><input type="button" class="operator" name="plus" value="+" onclick="calculator.display.value += '+'"></td>
+            </tr>
+            <tr>
+              <td><input type="button" name="four" value="4" onclick="calculator.display.value += '4'"></td>
+              <td><input type="button" name="five" value="5" onclick="calculator.display.value += '5'"></td>
+              <td><input type="button" name="six" value="6" onclick="calculator.display.value += '6'"></td>
+              <td><input type="button" class="operator" name="minus" value="-" onclick="calculator.display.value += '-'"></td>
+            </tr>
+            <tr>
+              <td><input type="button" name="seven" value="7" onclick="calculator.display.value += '7'"></td>
+              <td><input type="button" name="eight" value="8" onclick="calculator.display.value += '8'"></td>
+              <td><input type="button" name="nine" value="9" onclick="calculator.display.value += '9'"></td>
+              <td><input type="button" class="operator" name="times" value="x" onclick="calculator.display.value += '*'"></td>
+            </tr>
+            <tr>
+              <td><input type="button" id="clear" name="clear" value="c" onclick="calculator.display.value = ''"></td>
+              <td><input type="button" name="zero" value="0" onclick="calculator.display.value += '0'"></td>
+              <td><input type="button" name="doit" value="=" onclick="calculator.display.value = eval(calculator.display.value)"></td>
+              <td><input type="button" class="operator" name="div" value="/" onclick="calculator.display.value += '/'"></td>
+            </tr>
+          </table>
+        </form>
+        
+
+        
+
+      </div>
+<div class="calcfet">
+<button id="HideCalc">Hide Calculator</button>
+<button id="ShowCalc">Show Calculator</button>
+</div>
+    </div>
+
+  </div>
+  <div id="AfricaToCart"></div>
+  <div id="EUToCart"></div>
+  <div id="SAToCart"></div>
+  <div id="AsiaToCart"></div>
+  <div id="NAToCart"></div>
+  <div id="Mixed1ToCart"></div>
+  <div id="Mixed2ToCart"></div>
+  <div id="Mixed3ToCart"></div>
+  <div id="Mixed4ToCart"></div>
+  <div id="Mixed5ToCart"></div>
+
+
+
+
+
+
+
+
+  <!-- Main Page End -->
+
+  <!-- Footer Begin -->
+  <div class="footermain" onload="updateeverything();">
+
+
+    <div class="Side4">
+      <h2>COFFEE SMUGLER</h2>
+      <ul class="Footerul">
+        <li><a href="Cape Town Coffee.html">Home</a></li>
+        <li><a href="Order.html">Order</a></li>
+        <li><a href="Shop.html">Shop</a></li>
+        <li><a href="About.html">About</a></li>
+      </ul>
+    </div>
+
+    <div class="Side2">
+      <h2>CONTACT US</h2>
+      <p><a href="mailto:smugger@coffee.co.za">smugger@coffee.co.za</a></p>
+      <p><a href="mailto:order@coffee.co.za">order@coffee.co.za</a></p>
+      <p> +44 364892793 </p>
+    </div>
+
+  </div>
+
+  <!-- Footer End -->
+
+  <script type="text/javascript" src="JS/script.js"></script>
+
+</body>
+
+</html>
